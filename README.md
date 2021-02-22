@@ -1,5 +1,5 @@
 # PiHole DNS Blocklists and RegEx entries
-In this repository PiHole DNS blocklists are provided, all collected DNS entries with the help of the community for multiple purposes and tests.
+All collected entries with the help of the community for multiple purposes and tests.
 
 ## Getting Started
 Just add the raw list(s) or regex entries in PiHole Settings, update gravity [pihole -g](https://docs.pi-hole.net/core/pihole-command/#gravity) and voilà!
@@ -13,3 +13,5 @@ Automatically generated list using [Sublert](https://github.com/yassineaboukir/s
 
 ## License
 This project is licensed under the GNU Lesser General Public License v3.0 - see the [LICENSE](https://github.com/jdmarcelino/PiHole/blob/master/LICENSE) file for details.
+
+And may the Force be with you.
