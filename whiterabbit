@@ -1,58 +1,9 @@
-#CN
-ali-stats.jpush.cn
-developers.google.cn
-im64.jpush.cn
-jspluginstore.wps.cn
-ntp.gwadar.cn
-pcfg.wps.cn
-s.jpush.cn
-stats.jpush.cn
-www.amazon.cn
-
-#Xiaomi
-abtest.mistat.xiaomi.com
-account.xiaomi.com
-api.ad.intl.xiaomi.com
-api.g.micloud.xiaomi.net
-api.zhuti.intl.xiaomi.com
-app.chat.global.xiaomi.net
-data.mistat.india.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.xiaomi.com
-drm.market.intl.xiaomi.com
-f17.market.xiaomi.com
-f2.market.xiaomi.com
-f3.market.xiaomi.com
-fga0.market.xiaomi.com
-fgb0.market.xiaomi.com
-file.market.xiaomi.com
-file.static.xiaomi.net
-find.api.micloud.xiaomi.net
-findapi.micloud.xiaomi.net
-g.galleryapi.micloud.xiaomi.net
-global.market.xiaomi.com
-globalapi.ad.xiaomi.com
-idmb.app.chat.global.xiaomi.net
-idmb.register.xmpush.global.xiaomi.com
-idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
-land.xiaomi.net
-register.xmpush.global.xiaomi.com
-resolver.msg.global.xiaomi.net
-sdkconfig.ad.india.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.xiaomi.com
-static.account.xiaomi.com
-static-verify.sec.xiaomi.com
-t1.market.xiaomi.com
-t14.market.xiaomi.com
-t2.market.xiaomi.com
-t3.market.xiaomi.com
-t4.market.xiaomi.com
-t5.a.market.xiaomi.com
-t5.market.xiaomi.com
-t7.a.market.xiaomi.com
-thm.market.intl.xiaomi.com
-us.find.api.micloud.xiaomi.net
-verify.sec.xiaomi.com
-weatherapi.market.xiaomi.com
-
+0.0.0.0 ali-stats.jpush.cn
+0.0.0.0 developers.google.cn
+0.0.0.0 im64.jpush.cn
+0.0.0.0 jspluginstore.wps.cn
+0.0.0.0 ntp.gwadar.cn
+0.0.0.0 pcfg.wps.cn
+0.0.0.0 s.jpush.cn
+0.0.0.0 stats.jpush.cn
+0.0.0.0 www.amazon.cn
