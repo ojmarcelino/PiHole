@@ -759,6 +759,7 @@
 0.0.0.0	windows.policies.live.net
 0.0.0.0	windowssearch.com
 0.0.0.0	windowsupdate.com
+0.0.0.0 aniview.com
 0.0.0.0	windowsupdate.microsoft.com
 0.0.0.0	wns.windows.com
 0.0.0.0	ws.microsoft.com
@@ -774,3 +775,7 @@
 0.0.0.0	z.moatads.com
 0.0.0.0	zx.game.xiaomi.com
 0.0.0.0	zx.game.xiaomi.comstat.xiaomi.com
+0.0.0.0 jspluginstore.wps.cn#!/bin/bash
+0.0.0.0 adnxs.com
+0.0.0.0 pubmatic.com
+0.0.0.0 doubleclick.net
