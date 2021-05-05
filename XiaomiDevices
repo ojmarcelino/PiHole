@@ -466,3 +466,10 @@
 0.0.0.0 glance.com
 0.0.0.0 discover.glance.com
 0.0.0.0 discover.miui.com
+0.0.0.0 api.likee.video
+0.0.0.0 gw.agoda.com
+0.0.0.0 agoda.com
+0.0.0.0 accountapi.agoda.com
+0.0.0.0 bookapi.agoda.com
+0.0.0.0 like.video
+0.0.0.0 lbs.like.video
