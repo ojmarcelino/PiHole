@@ -970,7 +970,6 @@
 0.0.0.0 telecommand.telemetry.microsoft.com.akadns.net
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.appex.bing.net:443
 0.0.0.0 telemetry.appex.search.prod.ms.akadns.net
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.microsoft.com.nsatc.net
