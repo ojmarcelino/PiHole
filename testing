@@ -1,4 +1,19 @@
-## Still testing 
+# Testing purposes
+# Contributed by ojmarcelino <ojmarcelino@tutanota.com>
+# Project home page: https://github.com/ojmarcelino/blocklists
+# Licence: https://github.com/ojmarcelino/blocklists/blob/main/LICENSE
 
-analytics.plex.tv
-iqbroker.com
+# Taboola ?
+# Outbrain ?
+# Revcontent ?
+# Yahoo Gemini ?
+# Content.ad ?
+
+0.0.0.0  account.jetbrains.com
+0.0.0.0  ad.lgappstv.com
+0.0.0.0  yumenetworks.com
+0.0.0.0  smartclip.net
+0.0.0.0  smartclip.com
+0.0.0.0  llnwd.net
+0.0.0.0  smartshare.lgtvsdp.com
+0.0.0.0  ibis.lgappstv.com

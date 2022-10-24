@@ -1,7 +1,16 @@
 # DNS Blocklists and RegEx entries
 
-All collected entries with the help of the community for multiple purposes and tests, working for [PiHole](https://docs.pi-hole.net/main/basic-install/) or [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=DNS Blocklists and RegEx Entries&fontSize=21" />
 
-## sublert lists
+All collected entries with the help of the community for multiple purposes.
 
-Automatically generated list using [Sublert](https://github.com/yassineaboukir/sublert). This list contains all subdomains with TLS certificates and **cannot be used directly in pihole.** Sublert is a security and reconnaissance tool that was written in Python to leverage certificate transparency for the sole purpose of monitoring new subdomains deployed by specific organizations and issued TLS/SSL certificate.
+Working on 
+
+[![PiHole](https://img.shields.io/badge/PiHole-red?style=plastic&logo=PiHole)](https://docs.pi-hole.net/main/basic-install/)
+[![AdGuardHome](https://img.shields.io/badge/AdGuardHome-gray?style=plastic&logo=AdGuard)](https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started)
+
+## Support
+
+Contributions, pull requests and issues are welcome!
+
+And if you like this project, why not give a ⭐️! (and pay me a coffe?)

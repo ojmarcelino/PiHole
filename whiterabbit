@@ -1,8 +1,12 @@
-0.0.0.0 0.0.0.0.beeglivesex.com
-0.0.0.0 0.0.0.0.creative.hpyrdr.com
-0.0.0.0 0.0.0.0.hpyrdr.com
+# Follow the white rabbit blocklist
+# Contributed by ojmarcelino <ojmarcelino@tutanota.com>
+# Project home page: https://github.com/ojmarcelino/blocklists
+# Licence: https://github.com/ojmarcelino/blocklists/blob/main/LICENSE
+
+0.0.0.0 beeglivesex.com
+0.0.0.0 creative.hpyrdr.com
+0.0.0.0 hpyrdr.com
 0.0.0.0 000free.us
-0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 000tristanprod.free.fr
 0.0.0.0 005.free-counter.co.uk
 0.0.0.0 006.free-counter.co.uk
@@ -71716,7 +71720,7 @@
 0.0.0.0 zaktualizuj-konto.zaktualizuj4562.co.pl
 0.0.0.0 zaktualizuj.neftlix.tajbirds.com
 0.0.0.0 zakup-olx.pl
-0.0.0.0 zakupy-domowe.glosowanie-konkurs.eu
+2249972249972249970.0.0.0 zakupy-domowe.glosowanie-konkurs.eu
 0.0.0.0 zalbani.is-best.net
 0.0.0.0 zalecanie-wyborow.eu
 0.0.0.0 zalecic-wygrywanie.eu

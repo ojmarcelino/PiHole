@@ -1,5 +1,7 @@
-# Work In Progress
-## Need to insert manually each record on PiHole Regex screen.
+# Regex testing list
+# Contributed by ojmarcelino <ojmarcelino@tutanota.com>
+# Project home page: https://github.com/ojmarcelino/blocklists
+# Licence: https://github.com/ojmarcelino/blocklists/blob/main/LICENSE
 
 ^(.+[_.-])?graph[_.-]
 ^adim(age|g)s?[0-9]*[-_.]	
